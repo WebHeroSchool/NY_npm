@@ -1,0 +1,19 @@
+{
+  "name": "ny_npm",
+  "version": "1.0.0",
+  "description": "Lesson 4.10",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"build": "mkdir build",
+	"del": "rmdir build",
+    "say":   "echo hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebHeroSchool/NY_npm.git"
+  },
+  "author": "",
+  "license": "ISC" 
+  
+}
